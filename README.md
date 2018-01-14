@@ -1,9 +1,11 @@
-qtube-dl
-========
+# qtube-dl
 A simple GUI frontend for youtube-dl.
 
-Prerequisites to build from source
-----------------------------------
+## Screenshot
+![screenshot_eng](./image/GetInfo.png)
+![screenshot_zh_TW](./image/DownloadAndExtractAudio-zh_TW.png)
+
+## Prerequisites to build from source
 - Qt5 and build tools
 - CMake or Qt Creator
 
